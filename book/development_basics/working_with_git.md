@@ -112,21 +112,21 @@ Your branch is up-to-date with 'origin/master'.
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-        CMakeLists.txt
+        main.cpp
         test-project.pro
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 Ми бачимо, що ми маємо кілька файлів, які не є під контролем Git (*Untracked files*).  Додамо ці файли до наступного коміту з допомогою команди ```git add```:
 ```
-% git add .gitignore main.cpp test-project.pro 
+% git add main.cpp test-project.pro 
 % git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
-        new file:   CMakeLists.txt
+        new file:   main.cpp
         new file:   test-project.pro
 ```
 Тепер ми бачимо, що файли з нашого проекту будуть додані до наступного коміту (*Changes to be committed*). 
@@ -136,19 +136,19 @@ Changes to be committed:
 [master 275127f] Added project files.
  3 files changed, 90 insertions(+)
  create mode 100644 main.cpp
- create mode 100644 CMakeLists.txt
+ create mode 100644 test-project.pro
  ```
 Для того, щоб завантажити (“залити”) зміни на GitHub (на віддалений репозиторій), виконаємо команду ```git push```. Під час виконання цієї команди вам необхідно буде ввести свій логін та пароль до GitHub.
 ```
 % git push
-Username for 'https://github.com': alexchmykhalo
-Password for 'https://alexchmykhalo@github.com': 
+Username for 'https://github.com': user
+Password for 'https://user@github.com': 
 Counting objects: 5, done.
 Delta compression using up to 8 threads.
 Compressing objects: 100% (5/5), done.
 Writing objects: 100% (5/5), 913 bytes | 0 bytes/s, done.
 Total 5 (delta 0), reused 0 (delta 0)
-To https://github.com/alexchmykhalo/test-project.git
+To https://github.com/user/test-project.git
    fef3301..275127f  master -> master
 ```
 
