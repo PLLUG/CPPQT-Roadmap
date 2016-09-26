@@ -160,3 +160,9 @@ To https://github.com/user/test-project.git
 5. Перевірте статус репозиторію — які файли увійдуть до наступного коміту (```git status```).
 6. Виконайте коміт. Додайте до коміта якісний коментар, який буде описувати ваші зміни. (```git commit -m “Коментар”```)
 
+## Корисні посилання
+* Креш курс роботи з командним рядком  Unix/Linux  [http://cli.learncodethehardway.org/book/](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/uk/)
+* Git Magic (укр. переклад) [http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/uk/](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/uk/)
+* Visual Guide to Version Control [http://betterexplained.com/articles/a-visual-guide-to-version-control/](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
+
+
