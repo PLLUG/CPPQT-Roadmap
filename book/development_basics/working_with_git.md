@@ -17,6 +17,7 @@
 
 Під час встановлення (Windows) залиште налаштування за замовчуванням, як показано на малюнку.
 
+![](https://media.githubusercontent.com/media/PLLUG/CPPQT-Roadmap/master/storage/book/development_basics/working_with_git/git-bash-setup.png) ![](https://media.githubusercontent.com/media/PLLUG/CPPQT-Roadmap/master/storage/book/development_basics/working_with_git/git-bash-setup2.png)
 
 Після встановлення  відкрийте консоль (Linux та Mac OS). У Windows запустіть консоль з допомогою іконки **GitBash** (у головному меню). Виконайте команду  ```git --version```. Якщо встановлення пройшло успішно — ви побачите вивід з версією  Git.
 ```
@@ -53,9 +54,12 @@ git version 2.5.3
 
 1. Залогінтеся, та зайдіть на головну сторінку GitHub.
 2. Натисніть на конпку створення нового репозиторію. 
+![](https://media.githubusercontent.com/media/PLLUG/CPPQT-Roadmap/master/storage/book/development_basics/working_with_git/github-new-repo.png)
 3. Оберіть ім’я для репозиторію (*Repository name*).
+![](https://media.githubusercontent.com/media/PLLUG/CPPQT-Roadmap/master/storage/book/development_basics/working_with_git/github-new-repo2.png)
 4. При створенні нового репозиторію оберіть *“Initialize this repository with a README”*. Це ініціалізує репозиторій та дасть змогу одразу ж клонувати його.
-5. Скопіюйте адресу вашого нового репозаторію (наприклад: ```https://github.com/user/test-project.git```).
+  5. Скопіюйте адресу вашого нового репозаторію (наприклад: ```https://github.com/user/test-project.git```).             
+![](https://media.githubusercontent.com/media/PLLUG/CPPQT-Roadmap/master/storage/book/development_basics/working_with_git/github-clone-repo.png)
 6. Відкрийте консоль. Перейдіть у директорію де буде знаходитись ваш проект.
 7. Виконайте команду git clone адреса репозиторію.
 8. Перейдіть у теку репозиторія. Тепер можна розпочинати роботу.
