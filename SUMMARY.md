@@ -10,5 +10,5 @@
 * [Елементи С++](book/cpp_basics/cpp_basics.md)
    * [Об'єкти та класи. Абстракція.](book/cpp_basics/objects_classes_abstraction.md)
    * [Поля та методи класу](book/cpp_basics/fields_and_methods.md)
-   * Успадкування
+   * [Успадкування](book/cpp_basics/inheritance.md)
 
