@@ -7,4 +7,5 @@
    * [Встановлення Qt та QtCreator](book/development_basics/installing_qt_and_qtcreator.md)
    * [Перший С++ проект](book/development_basics/first_cpp_project.md)
    * [Робота з Git](book/development_basics/working_with_git.md)
+* Елементи С++
 
