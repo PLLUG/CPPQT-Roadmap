@@ -9,4 +9,5 @@
    * [Робота з Git](book/development_basics/working_with_git.md)
 * [Елементи С++](book/cpp_basics/cpp_basics.md)
    * [Найменьша програма мовою С++](book/cpp_basics/minimum_cpp_program.md)
+   * Починаємо програмувати
 
