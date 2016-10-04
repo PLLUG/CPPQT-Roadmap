@@ -9,5 +9,5 @@
    * [Робота з Git](book/development_basics/working_with_git.md)
 * [Елементи С++](book/cpp_basics/cpp_basics.md)
    * [Об'єкти та класи. Абстракція.](book/cpp_basics/objects_classes_abstraction.md)
-   * Поля та методи класу
+   * [Поля та методи класу](book/cpp_basics/fields_and_methods.md)
 
