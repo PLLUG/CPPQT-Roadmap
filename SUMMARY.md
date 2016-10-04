@@ -10,4 +10,8 @@
 * [Елементи С++](book/cpp_basics/cpp_basics.md)
    * [Найменьша програма мовою С++](book/cpp_basics/minimum_cpp_program.md)
    * [Починаємо програмувати](book/cpp_basics/start_programming_cpp.md)
+   * [Об'єкти та класи. Абстракція.](book/cpp_basics/objects_classes_abstraction.md)
+   * [Поля та методи класу](book/cpp_basics/fields_and_methods.md)
+   * [Успадкування](book/cpp_basics/inheritance.md)
+   * [Віртуальні методи та поліморфізм](book/cpp_basics/virtual_methods.md)
 
