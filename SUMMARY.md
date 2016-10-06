@@ -16,4 +16,5 @@
    * [Віртуальні методи та поліморфізм](book/cpp_basics/virtual_methods.md)
 * [Завдання](book/tasks/tasks.md)
    * [PrintEmployes](book/tasks/print_employes.md)
+   * Досліджуємо Git та командний рядок
 
