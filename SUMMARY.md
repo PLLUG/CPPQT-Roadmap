@@ -19,6 +19,7 @@
        * [Ласкаво просимо у світ Qt](book/qt5/meet_qt/welcome_to_qt_world.md)
        * [Ліцензування Qt](book/qt5/meet_qt/licensing.md)
        * [Огляд можливостей Qt 5](book/qt5/meet_qt/general_features.md)
+       * “Екосистема” Qt
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
