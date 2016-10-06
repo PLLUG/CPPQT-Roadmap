@@ -18,5 +18,4 @@
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
    * [PrintEmployes](book/tasks/print_employes.md)
-* Використання Qt5
 
