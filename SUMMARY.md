@@ -16,6 +16,7 @@
    * [Віртуальні методи та поліморфізм](book/cpp_basics/virtual_methods.md)
 * [Кросплатформна розробка з Qt5](book/qt5/qt5.md)
    * [Знайомство з Qt](book/qt5/meet_qt/meet_qt.md)
+       * Ласкаво просимо у світ Qt
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
