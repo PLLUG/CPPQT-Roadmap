@@ -15,7 +15,7 @@
    * [Успадкування](book/cpp_basics/inheritance.md)
    * [Віртуальні методи та поліморфізм](book/cpp_basics/virtual_methods.md)
 * [Завдання](book/tasks/tasks.md)
-   * RockPaperScissors(RPS Game)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
+   * RockPaperScissors(RPS Game)
    * [PrintEmployes](book/tasks/print_employes.md)
 
