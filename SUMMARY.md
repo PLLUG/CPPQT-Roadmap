@@ -15,6 +15,6 @@
    * [Успадкування](book/cpp_basics/inheritance.md)
    * [Віртуальні методи та поліморфізм](book/cpp_basics/virtual_methods.md)
 * [Завдання](book/tasks/tasks.md)
-   * Досліджуємо Git та командний рядок
+   * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [PrintEmployes](book/tasks/print_employes.md)
 
