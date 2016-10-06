@@ -17,4 +17,5 @@
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [PrintEmployes](book/tasks/print_employes.md)
+   * RockPaperScissors(RPS Game)
 
