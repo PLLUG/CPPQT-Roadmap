@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Вступ](book/intro.md)
+* Дорожня карта
 * [Основи Розробки](book/development_basics/development_basics.md)
    * [Найважливіший розділ у цій книжці](book/development_basics/most_important.md)
    * [Встановлення Qt та QtCreator](book/development_basics/installing_qt_and_qtcreator.md)
@@ -18,5 +19,4 @@
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
    * [PrintEmployes](book/tasks/print_employes.md)
-* Дорожня карта
 
