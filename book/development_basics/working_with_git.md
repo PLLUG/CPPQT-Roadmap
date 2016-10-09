@@ -20,7 +20,7 @@
 ![](https://media.githubusercontent.com/media/PLLUG/CPPQT-Roadmap/master/storage/book/development_basics/working_with_git/git-bash-setup.png) ![](https://media.githubusercontent.com/media/PLLUG/CPPQT-Roadmap/master/storage/book/development_basics/working_with_git/git-bash-setup2.png)
 
 Після встановлення  відкрийте консоль (Linux та Mac OS). У Windows запустіть консоль з допомогою іконки **GitBash** (у головному меню). Виконайте команду  ```git --version```. Якщо встановлення пройшло успішно — ви побачите вивід з версією  Git.
-```
+```sh
 alexchmykhalo@ThinkPad ~ % git --version
 git version 2.5.3
 ```
@@ -64,7 +64,7 @@ git version 2.5.3
 7. Виконайте команду git clone адреса репозиторію.
 8. Перейдіть у теку репозиторія. Тепер можна розпочинати роботу.
 
-```
+```sh
 % pwd
 /home/user
 
@@ -111,7 +111,7 @@ README.md
 ### Заливаємо зміни на Git
 
 Тепер відкриємо консоль та перевіримо статус репозиторію за допомогою команди ```git status```:
-```
+```sh
 % git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
@@ -124,7 +124,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 Ми бачимо, що ми маємо кілька файлів, які не є під контролем Git (*Untracked files*).  Додамо ці файли до наступного коміту з допомогою команди ```git add```:
-```
+```sh
 % git add main.cpp test-project.pro 
 % git status
 On branch master
@@ -137,7 +137,7 @@ Changes to be committed:
 ```
 Тепер ми бачимо, що файли з нашого проекту будуть додані до наступного коміту (*Changes to be committed*). 
 Тепер ми зробити коміт з допомогою команди  ```git commit -m “коментар”```.
-```
+```sh
 % git commit -m "Added project files."
 [master 275127f] Added project files.
  3 files changed, 90 insertions(+)
@@ -145,7 +145,7 @@ Changes to be committed:
  create mode 100644 test-project.pro
  ```
 Для того, щоб завантажити (“залити”) зміни на GitHub (на віддалений репозиторій), виконаємо команду ```git push```. Під час виконання цієї команди вам необхідно буде ввести свій логін та пароль до GitHub.
-```
+```sh
 % git push
 Username for 'https://github.com': user
 Password for 'https://user@github.com': 
