@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Вступ](book/intro.md)
 * [Дорожня карта](roadmap/roadmap.md)
-   * 2016-2
+   * [2016-2](roadmap/2016-2.md)
 * [Основи Розробки](book/development_basics/development_basics.md)
    * [Найважливіший розділ у цій книжці](book/development_basics/most_important.md)
    * [Встановлення Qt та QtCreator](book/development_basics/installing_qt_and_qtcreator.md)
