@@ -15,7 +15,7 @@
    * [Успадкування](book/cpp_basics/inheritance.md)
    * [Віртуальні методи та поліморфізм](book/cpp_basics/virtual_methods.md)
    * [Вказівники та пам'ять](book/cpp_basics/memory_management/memory_management.md)
-       * Розташування програми у пам'яті
+       * [Розташування програми у пам'яті](book/cpp_basics/memory_management/memory_layout.md)
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
