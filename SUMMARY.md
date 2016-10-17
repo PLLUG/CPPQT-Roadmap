@@ -17,7 +17,7 @@
    * [Просто про управління памяттю](book/cpp_basics/memory_management/memory_management.md)
        * [Адреса](book/cpp_basics/memory_management/address.md)
        * [Вказівник](book/cpp_basics/memory_management/poointer.md)
-       * Час життя змінної
+       * [Час життя змінної](book/cpp_basics/memory_management/lifetime.md)
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
