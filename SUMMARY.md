@@ -16,6 +16,7 @@
    * [Віртуальні методи та поліморфізм](book/cpp_basics/virtual_methods.md)
    * [Просто про управління памяттю](book/cpp_basics/memory_management/memory_management.md)
        * [Адреса](book/cpp_basics/memory_management/address.md)
+       * Вказівник
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
