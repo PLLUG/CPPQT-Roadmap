@@ -28,6 +28,7 @@
        * [“Екосистема” Qt](book/qt5/meet_qt/qt_ecosystem.md)
        * [Короткий огляд історії Qt](book/qt5/meet_qt/history.md)
    * [Створення графічного інтерфейсу засобами Qt](book/qt5/qt_widgets/qt5_widgets.md)
+       * Віджети (Widgets)
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
