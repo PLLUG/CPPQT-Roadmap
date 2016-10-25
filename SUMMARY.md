@@ -29,6 +29,7 @@
        * [Короткий огляд історії Qt](book/qt5/meet_qt/history.md)
    * [Створення графічного інтерфейсу засобами Qt](book/qt5/qt_widgets/qt5_widgets.md)
        * [Віджети (Widgets)](book/qt5/qt_widgets/widgets.md)
+       * Компонування (Layouts)
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
