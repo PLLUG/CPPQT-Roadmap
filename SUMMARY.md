@@ -34,7 +34,6 @@
        * [Створення сигналів (signals) та слотів (slots).](book/qt5/qt_widgets/create_signals_slots.md)
        * [Коротко про елементи графічного інтерфейсу та їх використання.](book/qt5/qt_widgets/korotko_pro_elementi_grafchnogo_nterfeisu_ta_h_vik.md)
        * [Підсумок: сигнально-слотові з'єднання](book/qt5/qt_widgets/signals_slots_summary.md)
-           * [Коротко про елементи графічного інтерфейсу та їх використання.](book/qt5/qt_widgets/korotko_pro_elementi_grafchnogo_nterfeisu_ta_h_vik111.md)
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
