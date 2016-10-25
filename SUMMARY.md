@@ -32,6 +32,7 @@
        * [Компонування (Layouts)](book/qt5/qt_widgets/layouts.md)
        * [Сигнально-слотові з'єднання](book/qt5/qt_widgets/signals_slots.md)
        * [Створення сигналів (signals) та слотів (slots).](book/qt5/qt_widgets/create_signals_slots.md)
+       * Коротко про елементи графічного інтерфейсу та їх використання.
        * [Підсумок: сигнально-слотові з'єднання](book/qt5/qt_widgets/signals_slots_summary.md)
            * Коротко про елементи графічного інтерфейсу та їх використання.
 * [Завдання](book/tasks/tasks.md)
