@@ -31,8 +31,8 @@
        * [Віджети (Widgets)](book/qt5/qt_widgets/widgets.md)
        * [Компонування (Layouts)](book/qt5/qt_widgets/layouts.md)
        * [Сигнально-слотові з'єднання](book/qt5/qt_widgets/signals_slots.md)
-       * Підсумок: сигнально-слотові з'єднання
        * [Створення сигналів (signals) та слотів (slots).](book/qt5/qt_widgets/create_signals_slots.md)
+       * Підсумок: сигнально-слотові з'єднання
 * [Завдання](book/tasks/tasks.md)
    * [Досліджуємо Git та командний рядок](book/tasks/exploring_git_and_command_line.md)
    * [RockPaperScissors(RPS Game)](book/tasks/rps_game.md)
