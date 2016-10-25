@@ -11,7 +11,7 @@
 У Qt є близько 50 готових класів графічних елементів доступних для використання. Батьківським класом для усіх віджетів є клас `QWidget`. Від нього успадковуються всі основні властивості візуальних елементів, які ми розглянемо у цьому розділі. Дослідження способів розробки програм з графічним інтерфейсом почнемо з прикладу.
 
 ## Структура віконного проекту
-Створимо пустий файл проекту. Запустимо майстра проектів та виберемо у розділі Projects пункт Other Projects. Далі виберемо тип проекту Empty Qt Project. До файлу проекту додамо вміст:
+Створимо пустий файл проекту. Запустимо майстра проектів та виберемо у розділі *Projects* пункт *Other Projects*. Далі виберемо тип проекту *Empty Qt Project*. До файлу проекту додамо вміст:
 ```
 TEMPLATE = app
 
@@ -26,17 +26,18 @@ SOURCES += \
 ```cpp
 #include <QApplication>
 #include <QLabel>
-int main(int lArgc, char *lArgv[])
+
+int main(int argc, char *argv[])
 {
     // Створюємо об'єкт QApplication, який ініціалізує та налаштовує віконну
     // програму, керує її викоаннням з допомогою цикла обробки подій
-    QApplication lApplication(lArgc, lArgv);
-    QLabel lLabel;                          // Сворюємо віджет QLabel - мітку
-    lLabel.setText("I am Widget!");         // Задаємо текст для мітки
-    lLabel.setGeometry(200, 200, 300, 150); // Задаємо розміри - позицію (x, y)
-                                            // ширину та висоту
+    QApplication application(argc, argv);
+    QLabel label;                          // Сворюємо віджет QLabel - мітку
+    label.setText("I am Widget!");         // Задаємо текст для мітки
+    label.setGeometry(200, 200, 300, 150); // Задаємо розміри - позицію (x, y)
+                                           // ширину та висоту
     // Задаємо вирівнювання тексту
-    lLabel.setAlignment(Qt::AlignHCenter | Qt::AlignVCenter);
+    label.setAlignment(Qt::AlignHCenter | Qt::AlignVCenter);
     // Клас QFont використовують для налаштування параметрів
     // шрифту. Вибираємо сімейсво шрифтів Arial Black та розмір 12.
     QFont lBlackFont("Courier New", 14);
